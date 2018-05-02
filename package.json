@@ -1,0 +1,8 @@
+{
+    "name": "tslint-zzz",
+    "version": "1.0.1",
+    "main": "./tslint.json",
+    "repository": "git@github.com:honpery/tslint-zzz.git",
+    "author": "honpery <honpery@gmail.com>",
+    "license": "MIT"
+}

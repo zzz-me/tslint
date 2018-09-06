@@ -1,8 +1,11 @@
 {
     "name": "tslint-zzz",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "./tslint.json",
     "repository": "git@github.com:honpery/tslint-zzz.git",
     "author": "honpery <honpery@gmail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "scripts": {
+        "pub": "npm publish"
+    }
 }

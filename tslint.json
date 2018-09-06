@@ -31,11 +31,6 @@
 			true,
 			200
 		],
-		"indent": [
-			true,
-			"tabs",
-			4
-		],
 		"no-var-requires": [
 			false
 		]
